@@ -29,7 +29,8 @@ A subfolder (of target folder) per date shall be created to store the images in 
 ```
 ./gradlew clean build
 
-java -jar build/libs/clidemo-0.0.1-SNAPSHOT.jar
+java -jar build/libs/nasa-api-0.0.1-SNAPSHOT.jar
+
 ```
 
 ```
